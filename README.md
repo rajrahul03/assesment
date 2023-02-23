@@ -29,8 +29,9 @@ x/y/z value = a
 
 | name | link |
 | ------ | ------ |
-| Rahul |[rahul] [link1] |
-| Rahul Raj V V |[rahul raj v v] [https://www.linkedin.com/in/rahulrajvv/]|
-[rahul] [link1]
-[rahul raj v v] [https://www.linkedin.com/in/rahulrajvv/]
+| Rahul |[rahul][link1] |
+| Rahul Raj V V |[rahul raj v v][link2]|
+
+
 [link1]: <https://github.com/rajrahul03/assesment/edit/main/README.md>
+[link2]: <https://www.linkedin.com/in/rahulrajvv/>
